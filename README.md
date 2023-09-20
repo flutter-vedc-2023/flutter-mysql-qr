@@ -1,4 +1,4 @@
-# modul_flutter
+# Modul Flutter (Flutter-MySQL-Qr Scanner/Qr Generator)
 
 A new Flutter project.
 
